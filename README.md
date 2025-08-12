@@ -1,17 +1,16 @@
-# Introduction
-Hi there! I'm **stalkrbeardedler18**, a passionate developer with a love for technology and coding. I enjoy solving problems and building innovative solutions.
+# stalkrbeardedler18
 
-# Skills
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VSCode
-- **Databases:** MongoDB, PostgreSQL
+**主题：** machine-learning
 
-# Projects
-- **Project A:** A web application for task management. [GitHub Link](https://github.com/stalkrbeardedler18/project-a)
-- **Project B:** A RESTful API for a blogging platform. [GitHub Link](https://github.com/stalkrbeardedler18/project-b)
+## 关于
+专注于 machine-learning。
 
-# Contacts
-Feel free to reach out:
-- **Email:** stalkrbeardedler18@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/stalkrbeardedler18)
+## 技术
+- Python · Git · CI/CD
+- - machine-learning
+- deep-learning
+- pytorch
+- tensorflow
+
+## 链接
+- 主页：https://github.com/stalkrbeardedler18
